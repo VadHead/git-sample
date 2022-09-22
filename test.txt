@@ -1,1 +1,2 @@
 Local txt file for Git sample
+New changes.
