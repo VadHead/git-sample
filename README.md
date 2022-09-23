@@ -1,1 +1,1 @@
-# git-sample README
+# git-sample
